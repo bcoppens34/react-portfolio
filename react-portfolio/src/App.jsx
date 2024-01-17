@@ -20,7 +20,7 @@ const App = () => {
       <section id="projects">
         <h2 id="projectsHeader">Projects:</h2>
         <Project title="Talker" description="Augmentative & Alternative Communication Device." link="https://ai-aac-db2.onrender.com/" />
-        <Project title="The Escape Room" description="Multiple choice game where one wrong click, could be your worst nightmare!" link="https://the-escape-room-b6b7539c84ae.herokuapp.com//" />
+        <Project title="The Escape Room" description="Multiple choice game where one wrong click, could be your worst nightmare!" link="https://the-escape-room-b6b7539c84ae.herokuapp.com/" />
         <Project title="Lexipal" description="Calculate the relative frequency of any word in the English Language" link="https://chicago-august-20231.github.io/Word-Frequency-Calculator/" />
       </section>
       <section id="contact">
