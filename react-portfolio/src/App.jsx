@@ -11,10 +11,9 @@ const App = () => {
       <section id="about">
         <h2>About Me</h2>
         {
-          <p>To be, or not to be: that is the question: whether 'tis nobler in the mind to suffer the slings and arrows of
-            outrageous fortune, or to take arms against a sea of troubles, and by opposing end them? To die: to sleep; no
-            more; and, by a sleep to say we end the heart-ache and the thousand natural shocks that flesh is heir to, 'tis a
-            consummation devoutly to be wish'd.</p>
+          <p>You can fool all of the people some of the time,
+             and some of the people all of the time, 
+             but you can't fool all of the people all of the time..</p>
         }
       </section>
       <section id="projects">
