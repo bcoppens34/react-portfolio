@@ -1,3 +1,5 @@
+## React portfolio
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -18,7 +20,5 @@ latest technologies.
 # Link
 https://github.com/bcoppens34/react-portfolio
 
-https://dazzling-mousse-ac3afb.netlify.app/
-app shows deployed but doesnt render to the page 
-ran out of time have to submit
+https://main--dazzling-mousse-ac3afb.netlify.app/
 
