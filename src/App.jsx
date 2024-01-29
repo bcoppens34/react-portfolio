@@ -10,10 +10,15 @@ const App = () => {
       <Header />
       <section id="about">
         <h2>About Me</h2>
+        <img src = 'https://mail.google.com/mail/u/0?ui=2&ik=e34a06c97a&attid=0.1&permmsgid=msg-f:1773044523202402413&th=189b1e99906e586d&view=att&disp=safe' width={300} height={300} />
         {
-          <p>You can fool all of the people some of the time,
-             and some of the people all of the time, 
-             but you can't fool all of the people all of the time..</p>
+          <p>Hello, my name is Brett Coppens and this is my portfolio.
+            Inside you will find a couple projects that I have worked on 
+            during my experience at the Northwestern Web Development Bootcamp.
+            These show off just some of the things I've learned, including this react 
+            website used for this portfolio! I have left my contact information at the bottom
+            of the page, please feel free to reach out with any questions or concerns!
+          </p>
         }
       </section>
       <section id="projects">
