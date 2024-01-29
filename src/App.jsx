@@ -15,7 +15,7 @@ const App = () => {
           <p>Hello, my name is Brett Coppens and this is my portfolio.
             Inside you will find a couple projects that I have worked on 
             during my experience at the Northwestern Web Development Bootcamp.
-            These show off just some of the things I've learned, including this react 
+            These show off just some of the things I have learned, including this react 
             website used for this portfolio! I have left my contact information at the bottom
             of the page, please feel free to reach out with any questions or concerns!
           </p>
